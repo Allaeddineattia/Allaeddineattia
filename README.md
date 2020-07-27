@@ -6,9 +6,9 @@ For now I'm a software Engineer Student and I really like software development.
 
 - 😄 I love the free software community and I was the general secretary of The Free Software Club of the Faculty of Science of Tunis.
 
-- 🌱 I’m currently learning ReactJS and I'm really eager to start learning Rust.
+- 🌱 I’m currently learning ReactJS and I'm eager to start learning Rust.
 
-- ⚡ Fun fact: I really love video games and Pink floyd. If you're a big fun of pink floyd, then we can be friends. 
+- ⚡ Fun fact: I love video games and Pink floyd. If you're a big fun of pink floyd, then we can be friends. 
 
 <!--
 **Allaeddineattia/Allaeddineattia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
