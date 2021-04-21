@@ -1,14 +1,14 @@
 ### Hi there 👋
 My name is Alla Eddine ATTIA and I was born in September 23, 1996.
-For now I'm a software Engineer Student and I really like software development. 
+I'm a software Engineer and I like building free softwares. 
 
-- 🔭 I’m currently working on my graduation project within Smart global advertisement company. I'm building a system capable of managing and displaying ads on a network of embedded systems. I'm using C++, Spring boot and Angular.
+- 🔭 I’m currently working at FIS Tunis as a Software Engineer. I'm working on trading servers and exchange gateways using C++.
 
 - 😄 I love the free software community and I was the general secretary of The Free Software Club of the Faculty of Science of Tunis.
 
-- 🌱 I’m currently learning ReactJS and I'm eager to start learning Rust.
+- 🌱 I’m currently learning Rust and developing some Rust projects.
 
-- ⚡ Fun fact: I love video games and Pink floyd. If you're a big fan of pink floyd, then we can be friends. 
+- ⚡ Fun fact: I love video games and Rock Music.
 
 <!--
 **Allaeddineattia/Allaeddineattia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
