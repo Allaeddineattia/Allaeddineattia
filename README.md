@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Alla Eddine ATTIA and I was born in September 23, 1996.
-I'm a software Engineer and I like building free softwares. 
+I'm a software Engineer and I like building free software. 
 
 - 🔭 I’m currently working at FIS Tunis as a Software Engineer. I'm working on trading servers and exchange gateways using C++.
 
@@ -14,7 +14,6 @@ I'm a software Engineer and I like building free softwares.
 **Allaeddineattia/Allaeddineattia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
