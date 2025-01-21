@@ -2,7 +2,7 @@
 My name is Alla Eddine ATTIA and I was born in September 23, 1996.
 I'm a software Engineer and I like building free software. 
 
-- 🔭 I’m currently working at Pxio GmbH as a Software Engineer.
+- 🔭 I’m currently working at Holo-Light as a Software Engineer.
 
 - 😄 I love the free software community and I was the general secretary of The Free Software Club of the Faculty of Science of Tunis.
 
